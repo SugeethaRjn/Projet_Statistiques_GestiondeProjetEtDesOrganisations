@@ -1,5 +1,2 @@
 # Projet_Statistiques_GestiondeProjetEtDesOrganisations
-Recommandation : Lire le rapport 
-Titre : Projet universitaire 
-Date : Réalisé en 2022 
-Matière concernée : En Statistiques
+Recommandation : Lire le rapport de ce projet universitaire réalisé en 2022 en Statistiques
